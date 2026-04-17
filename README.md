@@ -19,4 +19,4 @@ To enable GitHub Pages:
 1. Go to **Settings > Pages** in this repository
 2. Set source to **Deploy from a branch**
 3. Select `main` branch and `/ (root)` folder
-4. Your site will be live at `https://<username>.github.io/kaki-website/`
+4. Your site will be live at `https://zenf-star.github.io/kaki-website/    `
